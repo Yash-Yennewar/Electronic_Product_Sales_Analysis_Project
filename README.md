@@ -73,7 +73,7 @@ MoM_Growth_% = CALCULATE(DIVIDE([Revenue] - [Previous_Month_Revenue],[Previous_M
 
 ---
 
-## 📸 Data Model Screenshot : 
+## 📸 Dashboard Screenshot : 
 <img src="screenshots/Dashboard.png" class="img-fluid">
 
 ---
@@ -100,3 +100,5 @@ MoM_Growth_% = CALCULATE(DIVIDE([Revenue] - [Previous_Month_Revenue],[Previous_M
 - Integrate **geographical analysis** using map visuals.  
 - Include **customer segmentation** based on purchase frequency.  
 - Automate **dataset refresh** using Power BI Service.
+
+---
